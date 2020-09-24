@@ -32,6 +32,11 @@
       "name": "NewUser",
       "phone": "12345",
       "id": 2
+    },
+    {
+      "name": "Amir",
+      "phone": "242424",
+      "id": 3
     }
   ]
 }
